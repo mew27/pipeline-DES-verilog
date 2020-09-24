@@ -17,3 +17,5 @@ The module is defined like:
         );
 
 Where plaintext, key, cyphertext and clk are self explanatory, en is the enable signal, set high/low to start/pause the computation. reset_n is the reset signal (active low), setting it low will flush the pipeline.
+
+## Testbench result
